@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppThem.Base">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="AppThem.Base" parent = "Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/indigo_500</item>
+        <item name="colorPrimaryDark">@color/indigo_700</item>
+        <item name="colorAccent">@color/red_500</item>
+    </style>
+
+    <style name="ToolbarTitle" parent="@style/TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">17sp</item>
+    </style>
+
+</resources>

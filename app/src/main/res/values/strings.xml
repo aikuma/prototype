@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MaterialTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="drawer_items">
+        <item>Item1</item>
+        <item>Item2</item>
+        <item>Item3</item>
+        <item>Item4</item>
+        <item>Item5</item>
+        <item>Item6</item>
+        <item>Item7</item>
+        <item>Item8</item>
+    </string-array>
+    <string name="drawer_open">LeftMenu</string>
+    <string name="drawer_close">Closed</string>
+</resources>
